@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "codeQR",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "encode the ativetab url to qr-code",
+    "description": "The description of the application"
+  }
+}
